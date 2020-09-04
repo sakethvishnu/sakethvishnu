@@ -1,5 +1,9 @@
 ### Heyo!👋 This is Saketh Vishnu ....😁
 
+I am Saketh Vishnu, a CSE Student at GVPCE(A) and a confused person😜😜.
+
+I am intrested to learn anything regarding Computers and i am intrested to work with someone who really clarifies my doubts.
+
 
 <!--
 **sakethvishnu/sakethvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
