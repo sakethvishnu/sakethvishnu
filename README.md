@@ -10,7 +10,7 @@ I am intrested to learn anything regarding Computers and i am intrested to work 
   <section>
   <ul>
   <li>Always learn something new.</li>
-  <li>Started developing apps during this lockdown.</li>
+  <li>Started developing apps during COVID-19 lockdown.</li>
   <li>Working with one of <a href = "https://github.com/himabindu-run" >peer</a> on a mobile app.</li>
   <li>I recently started learning firebase.</li>
   </ul>
