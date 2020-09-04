@@ -15,6 +15,22 @@ I am intrested to learn anything regarding Computers and i am intrested to work 
   <li>I recently started learning firebase.</li>
   </ul>
   </section>
+  
+  <section>
+  <h4>We can talk about... 💻</h4>
+  <ul>
+    <li>Flutter,C,Cpp,Java,HTML,CSS.(if and only if you want to be adventerous)</li>
+    <li>Mathematics and Competitive programming.</li>
+    <li>I should start to learn Python and Cyber Security.</li>
+  </ul>
+  </section>
+  
+   <h4>You can reach me on... 😁💬</h4>
+   <p><a href = "https://www.linkedin.com/in/saketh-vishnu-33a3721a6">LinkedIn</a> - If you want to talk.</p>
+   <p><a href = "https://medium.com/@saketh4532">Medium</a> - If you like to read mediumposts.</p>
+   
+   <h4>Pronouns....😜</h4>
+    <p>   bro , he , his , dude.</p>
 </body>
 
  
