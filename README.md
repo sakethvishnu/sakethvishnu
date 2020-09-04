@@ -27,16 +27,15 @@ I am intrested to learn anything regarding Computers and i am intrested to work 
   
    <h4>You can reach me on... 😁💬</h4>
    <p><a href = "https://www.linkedin.com/in/saketh-vishnu-33a3721a6">LinkedIn</a> - If you want to talk.</p>
-   <p><a href = "https://medium.com/@saketh4532">Medium</a> - If you like to read mediumposts.</p>
+   <p><a href = "https://medium.com/@saketh4532">Medium</a> - If you like to read medium posts</p>
    
    <h4>Pronouns....😜</h4>
     <p>   bro , he , his , dude.</p>
     
-    <h4>Creativity...😉😉</h4>
-    <p><a href = "https://play.google.com/store/apps/details?id=com.samst.tictactoeforever&hl=en_IN">TicTacToe Forever</a> - My first app.</p>
-    <p><a href = "https://play.google.com/store/apps/details?id=com.samst.cprogramming&hl=en_IN">C Programming</a> - My next app which was recomended by my friends to learn c programming.</p>
+   <h4>Creativity....😉😉</h4>
+  <p><a href = "https://play.google.com/store/apps/details?id=com.samst.tictactoeforever&hl=en_IN">TicTacToe Forever</a> - My first app.</p>
+    <p><a href = "https://play.google.com/store/apps/details?id=com.samst.cprogramming&hl=en_IN">C Programming</a> - My next app which was recomended by my friends to learn c programming.</p>  
 </body>
-
  
  
  
