@@ -34,7 +34,7 @@ I am intrested to learn anything regarding Computers and i am intrested to work 
     
    <h4>Creativity....😉😉</h4>
   <p><a href = "https://play.google.com/store/apps/details?id=com.samst.tictactoeforever&hl=en_IN">TicTacToe Forever</a> - My first app.</p>
-    <p><a href = "https://play.google.com/store/apps/details?id=com.samst.cprogramming&hl=en_IN">C Programming</a> - My next app which was recomended by my friends to learn c programming.</p>  
+    <p><a href = "https://play.google.com/store/apps/details?id=com.samst.cprogramming&hl=en_IN">C Programming</a> - My first app which was recomended by my friends to learn c programming.</p>  
 </body>
  
  
